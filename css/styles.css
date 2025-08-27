@@ -20,29 +20,30 @@ div{
     border:3px solid #f9f9fc;
 }
 
-#primero{
+.primero{
     background-color: red;
 }
 
-#negro{
+.negro{
     background-color: #1700eb;
 }
 
-#tercero{
+.tercero{
     border-radius: 50%;
     background-color: red;
 }
 
-#cuarto{
+.cuarto{
     background-color: blue;
 }
 
-#quinto{
+.quinto{
     border-radius: 50%;
     background-color: red;
 }
 
-#sexto{
+.sexto{
     border-radius: 50%;
     background-color: green;
+
 }
